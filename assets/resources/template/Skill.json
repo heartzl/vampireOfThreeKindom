@@ -1,0 +1,22 @@
+[ {
+    "name": "陨石术",
+    "id": 1,
+    "type": 2,
+    "prefabName": "zhugeliang",
+    "radius": 0,
+    "speed": 0,
+    "maxOffsetAng": 0,
+    "damageRange": 125,
+    "damage": 500
+},
+{
+    "name": "亢龙有悔",
+    "id": 2,
+    "type": 2,
+    "prefabName": "guanyu",
+    "radius": 0,
+    "speed": 0,
+    "maxOffsetAng": 0,
+    "damageRange": 150,
+    "damage": 400
+}]

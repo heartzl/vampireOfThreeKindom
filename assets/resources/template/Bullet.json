@@ -1,0 +1,18 @@
+[ {
+    "id": 1,
+    "type": 1,
+    "spriteName": "2_1",
+    "radius": 20,
+    "speed": 800,
+    "maxOffsetAng": 360,
+    "damageRange": 0
+},
+{
+    "id": 2,
+    "type": 3,
+    "spriteName": "1",
+    "radius": 20,
+    "speed": 800,
+    "maxOffsetAng": 0,
+    "damageRange": 0
+}]

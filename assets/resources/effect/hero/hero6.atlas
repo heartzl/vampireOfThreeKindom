@@ -1,0 +1,153 @@
+
+hero6.png
+size: 197,412
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dg
+  rotate: false
+  xy: 2, 312
+  size: 92, 98
+  orig: 120, 120
+  offset: 28, 8
+  index: -1
+g
+  rotate: true
+  xy: 2, 222
+  size: 88, 92
+  orig: 120, 120
+  offset: 17, 15
+  index: -1
+light
+  rotate: false
+  xy: 145, 3
+  size: 43, 43
+  orig: 61, 61
+  offset: 9, 9
+  index: -1
+lighting_00000
+  rotate: false
+  xy: 96, 402
+  size: 9, 8
+  orig: 31, 31
+  offset: 11, 12
+  index: -1
+lighting_00001
+  rotate: false
+  xy: 28, 7
+  size: 25, 24
+  orig: 31, 31
+  offset: 2, 2
+  index: -1
+lighting_00002
+  rotate: false
+  xy: 2, 6
+  size: 24, 26
+  orig: 31, 31
+  offset: 3, 2
+  index: -1
+lighting_00003
+  rotate: false
+  xy: 96, 275
+  size: 16, 21
+  orig: 31, 31
+  offset: 9, 7
+  index: -1
+zgl_00
+  rotate: true
+  xy: 65, 103
+  size: 51, 107
+  orig: 60, 109
+  offset: 4, 2
+  index: -1
+zgl_01
+  rotate: 180
+  xy: 105, 48
+  size: 67, 56
+  orig: 75, 70
+  offset: 4, 2
+  index: -1
+zgl_02
+  rotate: true
+  xy: 4, 83
+  size: 59, 77
+  orig: 60, 85
+  offset: 1, 0
+  index: -1
+zgl_03
+  rotate: false
+  xy: 152, 364
+  size: 18, 47
+  orig: 28, 48
+  offset: 5, 0
+  index: -1
+zgl_04
+  rotate: 180
+  xy: 160, 77
+  size: 35, 63
+  orig: 44, 72
+  offset: 4, 5
+  index: -1
+zgl_05
+  rotate: false
+  xy: 96, 258
+  size: 59, 154
+  orig: 62, 167
+  offset: 3, 13
+  index: -1
+zgl_06
+  rotate: false
+  xy: 138, 261
+  size: 54, 143
+  orig: 61, 143
+  offset: 3, 0
+  index: -1
+zgl_07
+  rotate: true
+  xy: 2, 34
+  size: 57, 65
+  orig: 60, 70
+  offset: 0, 1
+  index: -1
+zgl_08
+  rotate: true
+  xy: 166, 253
+  size: 35, 24
+  orig: 43, 30
+  offset: 4, 4
+  index: -1
+zgl_09
+  rotate: true
+  xy: 171, 289
+  size: 34, 24
+  orig: 43, 32
+  offset: 4, 4
+  index: -1
+zgl_10
+  rotate: true
+  xy: 121, 147
+  size: 42, 68
+  orig: 48, 73
+  offset: 2, 3
+  index: -1
+zgl_11
+  rotate: true
+  xy: 63, 16
+  size: 42, 80
+  orig: 55, 82
+  offset: 4, 2
+  index: -1
+zgl_12
+  rotate: 270
+  xy: 2, 144
+  size: 64, 106
+  orig: 66, 112
+  offset: 2, 5
+  index: -1
+zgl_13
+  rotate: true
+  xy: 84, 181
+  size: 82, 90
+  orig: 85, 97
+  offset: 2, 3
+  index: -1
